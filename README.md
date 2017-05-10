@@ -1,12 +1,12 @@
 # switch-nodes
 
-Write a method `switchPairs` that switches the order of two specific nodes in a linked list. You may assume that both values exist in the list.
+Write a method `switchNodes` that switches the order of two specific nodes in a linked list. You may assume that both values exist in the list.
 
 For example, if the list initially stores these values:
 
 [3, 7, 4, 9, 8, 12]
 
-After the call `switchPairs(7,8)` the result should be:
+After the call `switchNodes(7,8)` the result should be:
 
 [3, 8, 4, 9, 7, 12]
 
