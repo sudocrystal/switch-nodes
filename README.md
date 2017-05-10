@@ -1,6 +1,6 @@
 # switch-nodes
 
-Write a method `switchNodes` that switches the order of two specific nodes in a linked list. You may assume that both values exist in the list.
+Write a method `switchNodes` that switches the order of two specific nodes in a linked list. _You may assume that both values exist in the list exactly once._
 
 For example, if the list initially stores these values:
 
